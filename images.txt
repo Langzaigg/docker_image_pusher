@@ -1,5 +1,6 @@
 #支持私库
-ghcr.io/labring/fastgpt:latest
+ghcr.io/labring/fastgpt:v4.8.8-fix2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/labring/fastgpt-sandbox
+ghcr.io/songquanpeng/one-api
