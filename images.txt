@@ -1,5 +1,5 @@
 #支持私库
-node
+node:19
 mysql
 ghcr.io/labring/fastgpt:v4.8.8-fix2
 #支持指定架构
