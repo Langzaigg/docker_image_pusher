@@ -1,7 +1,8 @@
 #支持私库
-node:19
+nginx
+node
 mysql
-ghcr.io/labring/fastgpt:v4.8.8-fix2
+ghcr.io/labring/fastgpt
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/labring/fastgpt-sandbox
