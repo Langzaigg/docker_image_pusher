@@ -1,8 +1,10 @@
 #支持私库
+open-webui
 nginx
 node
 mysql
 ghcr.io/labring/fastgpt
+alist
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/labring/fastgpt-sandbox
