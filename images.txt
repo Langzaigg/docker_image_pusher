@@ -2,7 +2,6 @@
 nginx
 node
 mysql
-mineru
 ghcr.io/labring/fastgpt:4.8.13-fix
 ghcr.io/open-webui/open-webui:main
 ghcr.io/labring/fastgpt-sandbox:v4.8.11
