@@ -2,16 +2,16 @@
 nginx
 node
 mysql
-ghcr.io/labring/fastgpt:v4.8.15-fix3
+ghcr.io/labring/fastgpt:v4.8.16
 ghcr.io/open-webui/open-webui:main
-ghcr.io/labring/fastgpt-sandbox:v4.8.11
+ghcr.io/labring/fastgpt-sandbox:v4.8.16
 ghcr.io/songquanpeng/one-api 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
 #dify
-langgenius/dify-api:0.14.1
-langgenius/dify-web:0.14.1
+langgenius/dify-api:0.14.2
+langgenius/dify-web:0.14.2
 pingcap/tidb:v8.4.0
 postgres:15-alpine
 redis:6-alpine
