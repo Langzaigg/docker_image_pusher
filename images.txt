@@ -8,10 +8,10 @@ valkey/valkey:8
 infiniflow/ragflow:v0.17.0-slim
 elasticsearch:8.11.3
 infiniflow/infinity:v0.6.0-dev3
-ghcr.io/labring/fastgpt:v4.8.22
+ghcr.io/labring/fastgpt:v4.9.3
 ghcr.io/open-webui/open-webui:main
-ghcr.io/labring/fastgpt-sandbox:v4.8.16
-ghcr.io/songquanpeng/one-api 
+ghcr.io/labring/fastgpt-sandbox:v4.9.3
+pgvector/pgvector:0.8.0-pg15
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
